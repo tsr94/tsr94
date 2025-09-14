@@ -18,7 +18,7 @@ I love building full-stack applications, working on AI/ML projects, and explorin
 Spring Boot–based Online Test Platform that allows administrators to create, manage, and evaluate tests, while providing students a simple and scalable interface to take tests.  
 *Tech:* Java SpringBoot, Thymleaf
 
-🔹 **[YourBuddy Restaurent](https://github.com/tsr94/MovieRecommender)**  
+🔹 **[YourBuddy Restaurent](https://github.com/tsr94/yourBuddy)**  
 Developed a food ordering platform with menu browsing and order placement features
 *Tech:* Java SpringBoot, Thymleaf  
 
