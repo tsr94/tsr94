@@ -34,8 +34,8 @@ A content-based movie recommender using Python & NLP.
 
 ## 🌱 What I'm Learning
 - Advanced Spring Boot & Microservices  
-- Deep Learning for NLP  
-- Cloud Deployment (AWS, Docker, Kubernetes)
+- Mastering Problem Solving
+- Learning React Js
 
 ---
 
