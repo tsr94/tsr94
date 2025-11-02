@@ -14,7 +14,7 @@ I love building full-stack applications, working on AI/ML projects, and explorin
 
 ## 📌 Featured Projects
 
-🔹 **[Testify-An online test platform](https://github.com/tsr94/test-platform/tree/master)**  
+🔹 **[Testify-An online test platform](https://github.com/tsr94/testify)**  
 Spring Boot–based Online Test Platform that allows administrators to create, manage, and evaluate tests, while providing students a simple and scalable interface to take tests.  
 *Tech:* Java SpringBoot, Thymleaf
 
