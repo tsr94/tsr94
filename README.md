@@ -14,19 +14,26 @@ I love building full-stack applications, working on AI/ML projects, and explorin
 
 ## 📌 Featured Projects
 
-🔹 **[Testify-An online test platform](https://github.com/tsr94/testify)**  
+
+### 🔹 **[Gesture Based Gaming Application](https://github.com/tsr94/Mini-Project_Gesture-Based-Gaming-Application)** 
+Python gesture-controlled gaming system using MediaPipe & OpenCV, with real-time messaging to Unity via ZeroMQ.  
+Developed custom **GestureReceiver** and **GestureInputProvider** scripts for instant in-game actions.  
+**Tech:** Python, MediaPipe, OpenCV, Unity, ZeroMQ  
+
+### 🔹 **[Testify-An online test platform](https://github.com/tsr94/testify)**  
 Spring Boot–based Online Test Platform that allows administrators to create, manage, and evaluate tests, while providing students a simple and scalable interface to take tests.  
 *Tech:* Java SpringBoot, Thymleaf
 
-🔹 **[YourBuddy Restaurent](https://github.com/tsr94/yourBuddy)**  
-Developed a food ordering platform with menu browsing and order placement features
-*Tech:* Java SpringBoot, Thymleaf  
+### 🔹 **[FashionKart – Full-Stack E-Commerce Platform]()**  
+A complete e-commerce web app with authentication, product catalog, cart, orders, admin dashboard, and online payments.  
+Implemented **JWT Auth**, **Role-based Access**, **JPA/Hibernate**, and **Razorpay Payment Gateway**.  
+**Tech:** Java Spring Boot, React.js, MySQL, Spring Security, Razorpay API  
 
-🔹 **[Restaurent Review Sentiment Analysis](https://github.com/tsr94/Sentiment-Analysis)**  
+### 🔹 **[Restaurent Review Sentiment Analysis](https://github.com/tsr94/Sentiment-Analysis)**  
 Restaurant Food Review Sentiment Analysis is a Python-based web application built with Streamlit that classifies restaurant reviews as Positive or Negative.  
 *Tech:* Python, Scikit-Learn, Streamlit  
 
-🔹 **[Movie Recommender System](https://github.com/tsr94/MovieRecommender)**  
+### 🔹 **[Movie Recommender System](https://github.com/tsr94/MovieRecommender)**  
 A content-based movie recommender using Python & NLP.  
 *Tech:* Python, Scikit-Learn, Streamlit  
 
