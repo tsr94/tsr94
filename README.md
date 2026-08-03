@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sumit Keshri 
+# 👋 Hi, I'm Tilak
 
 🚀 **Software Developer | Java | Spring Boot | AI/ML Enthusiast**  
 I love building full-stack applications, working on AI/ML projects, and exploring scalable system designs.  
